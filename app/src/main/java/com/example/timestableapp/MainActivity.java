@@ -54,6 +54,7 @@ public class MainActivity extends AppCompatActivity {
 
                     listView.setAdapter(arrayAdapter);
 
+
                 }
 
                 @Override
@@ -62,6 +63,7 @@ public class MainActivity extends AppCompatActivity {
                 }
                 @Override
                 public void onStopTrackingTouch(SeekBar seekBar) {
+
 
                 }
             });
